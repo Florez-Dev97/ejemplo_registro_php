@@ -7,7 +7,7 @@ create table usuar105(
     nombre varchar(64),
     email varchar(64),
     username varchar(64),
-    clave varchar(32)
+    clave varchar(32),
     
     PRIMARY KEY(id_usuario)
 );
